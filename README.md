@@ -1,2 +1,2 @@
 # SupplySim
-Simulation of supply chain in python
+Simulation of supply chain in python.
