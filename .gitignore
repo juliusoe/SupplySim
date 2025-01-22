@@ -1,0 +1,6 @@
+# Ignore virtual environment
+SupplySimEnv/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
